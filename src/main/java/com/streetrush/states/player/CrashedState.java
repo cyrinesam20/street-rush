@@ -1,4 +1,16 @@
 package com.streetrush.states.player;
 
-public class CrashedState {
+import com.streetrush.entities.Player;
+
+public class CrashedState implements PlayerState {
+    @Override
+    public void handleInput(Player player) {}
+
+    @Override
+    public void update(Player player) {}
+
+    @Override
+    public String getName() {
+        return "CRASHED";
+    }
 }

@@ -1,4 +1,16 @@
 package com.streetrush.states.player;
 
-public class JumpingState {
+import com.streetrush.entities.Player;
+
+public class JumpingState implements PlayerState {
+    @Override
+    public void handleInput(Player player) {}
+
+    @Override
+    public void update(Player player) {}
+
+    @Override
+    public String getName() {
+        return "JUMPING";
+    }
 }

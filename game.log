@@ -1,0 +1,114 @@
+[2025-11-01 12:49:45] [INFO] Game Logger Initialized
+[2025-11-01 12:49:45] [INFO] Street Rush 3D initialized
+[2025-11-01 12:49:45] [STATE] Game: -> MENU
+[2025-11-01 12:49:45] [INFO] Game loop started
+[2025-11-01 12:49:46] [INFO] FPS: 60
+[2025-11-01 12:49:47] [INFO] FPS: 60
+[2025-11-01 12:49:48] [INFO] FPS: 60
+[2025-11-01 12:49:49] [INFO] Player created
+[2025-11-01 12:49:49] [STATE] Game: MENU -> PLAYING
+[2025-11-01 12:49:49] [INFO] FPS: 60
+[2025-11-01 12:49:50] [EVENT] Created Cone at lane 1, z=50.000008
+[2025-11-01 12:49:50] [INFO] FPS: 60
+[2025-11-01 12:49:51] [EVENT] Created Barrier at lane -1, z=64.99997
+[2025-11-01 12:49:51] [INFO] FPS: 59
+[2025-11-01 12:49:51] [STATE] Player: RUNNING -> JUMPING
+[2025-11-01 12:49:52] [EVENT] Created Train at lane 1, z=79.99994
+[2025-11-01 12:49:52] [EVENT] Created Magnet at lane 0, z=74.99994
+[2025-11-01 12:49:52] [STATE] Player: JUMPING -> RUNNING
+[2025-11-01 12:49:52] [INFO] FPS: 61
+[2025-11-01 12:49:53] [EVENT] Created Barrier at lane 0, z=94.99989
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 1
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 2
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 3
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 4
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 5
+[2025-11-01 12:49:53] [INFO] FPS: 59
+[2025-11-01 12:49:53] [INFO] Player created
+[2025-11-01 12:49:53] [DECORATOR] MagnetDecorator applied to Player
+[2025-11-01 12:49:53] [EVENT] Player moved to lane 1
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 6
+[2025-11-01 12:49:53] [EVENT] Coin collected! Total: 7
+[2025-11-01 12:49:54] [EVENT] Created Train at lane -1, z=110.0
+[2025-11-01 12:49:54] [EVENT] Coin collected! Total: 8
+[2025-11-01 12:49:54] [COLLISION] Player hit Train
+[2025-11-01 12:49:54] [STATE] Player: RUNNING -> CRASHED
+[2025-11-01 12:49:54] [EVENT] Player crashed!
+[2025-11-01 12:49:54] [STATE] Game: PLAYING -> GAME_OVER
+[2025-11-01 12:49:54] [INFO] Final score: 8
+[2025-11-01 12:49:54] [INFO] Distance traveled: 786m
+[2025-11-01 12:49:54] [INFO] FPS: 61
+[2025-11-01 12:49:55] [INFO] FPS: 59
+[2025-11-01 12:49:56] [INFO] Player created
+[2025-11-01 12:49:56] [STATE] Game: MENU -> PLAYING
+[2025-11-01 12:49:56] [EVENT] Player moved to lane -1
+[2025-11-01 12:49:56] [INFO] FPS: 60
+[2025-11-01 12:49:56] [EVENT] Created Barrier at lane 0, z=50.000008
+[2025-11-01 12:49:57] [STATE] Player: RUNNING -> JUMPING
+[2025-11-01 12:49:57] [EVENT] Created Cone at lane 1, z=64.99997
+[2025-11-01 12:49:57] [INFO] FPS: 60
+[2025-11-01 12:49:57] [STATE] Player: JUMPING -> RUNNING
+[2025-11-01 12:49:57] [EVENT] Coin collected! Total: 1
+[2025-11-01 12:49:58] [EVENT] Coin collected! Total: 2
+[2025-11-01 12:49:58] [EVENT] Coin collected! Total: 3
+[2025-11-01 12:49:58] [STATE] Player: RUNNING -> JUMPING
+[2025-11-01 12:49:58] [EVENT] Created Train at lane -1, z=79.99994
+[2025-11-01 12:49:58] [EVENT] Created DoubleCoin at lane 0, z=74.99994
+[2025-11-01 12:49:58] [STATE] Player: JUMPING -> RUNNING
+[2025-11-01 12:49:58] [INFO] FPS: 60
+[2025-11-01 12:49:59] [EVENT] Created Barrier at lane 1, z=94.99989
+[2025-11-01 12:49:59] [STATE] Player: RUNNING -> SLIDING
+[2025-11-01 12:49:59] [INFO] FPS: 61
+[2025-11-01 12:49:59] [STATE] Player: SLIDING -> RUNNING
+[2025-11-01 12:50:00] [EVENT] Created Barrier at lane 1, z=110.0
+[2025-11-01 12:50:00] [STATE] Player: RUNNING -> SLIDING
+[2025-11-01 12:50:00] [EVENT] Obstacle avoided!
+[2025-11-01 12:50:00] [EVENT] Coin collected! Total: 4
+[2025-11-01 12:50:00] [EVENT] Coin collected! Total: 5
+[2025-11-01 12:50:00] [EVENT] Coin collected! Total: 6
+[2025-11-01 12:50:00] [INFO] FPS: 60
+[2025-11-01 12:50:00] [STATE] Player: SLIDING -> RUNNING
+[2025-11-01 12:50:00] [EVENT] Coin collected! Total: 7
+[2025-11-01 12:50:00] [STATE] Player: RUNNING -> SLIDING
+[2025-11-01 12:50:01] [EVENT] Coin collected! Total: 8
+[2025-11-01 12:50:01] [EVENT] Created Train at lane -1, z=125.00015
+[2025-11-01 12:50:01] [EVENT] Created SpeedBoost at lane 0, z=120.00015
+[2025-11-01 12:50:01] [EVENT] Coin collected! Total: 9
+[2025-11-01 12:50:01] [STATE] Player: SLIDING -> RUNNING
+[2025-11-01 12:50:01] [STATE] Player: RUNNING -> SLIDING
+[2025-11-01 12:50:01] [INFO] FPS: 60
+[2025-11-01 12:50:01] [EVENT] Created Barrier at lane 1, z=140.0003
+[2025-11-01 12:50:01] [STATE] Player: SLIDING -> RUNNING
+[2025-11-01 12:50:02] [STATE] Player: RUNNING -> SLIDING
+[2025-11-01 12:50:02] [EVENT] Coin collected! Total: 10
+[2025-11-01 12:50:02] [EVENT] Coin collected! Total: 11
+[2025-11-01 12:50:02] [EVENT] Coin collected! Total: 12
+[2025-11-01 12:50:02] [STATE] Player: SLIDING -> RUNNING
+[2025-11-01 12:50:02] [EVENT] Coin collected! Total: 13
+[2025-11-01 12:50:02] [STATE] Player: RUNNING -> SLIDING
+[2025-11-01 12:50:02] [EVENT] Coin collected! Total: 14
+[2025-11-01 12:50:02] [EVENT] Speed increased!
+[2025-11-01 12:50:02] [EVENT] Created Train at lane -1, z=155.00046
+[2025-11-01 12:50:02] [INFO] FPS: 59
+[2025-11-01 12:50:02] [EVENT] Obstacle avoided!
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 15
+[2025-11-01 12:50:03] [STATE] Player: SLIDING -> RUNNING
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 16
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 17
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 18
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 19
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 20
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 21
+[2025-11-01 12:50:03] [EVENT] Created Barrier at lane 0, z=171.20053
+[2025-11-01 12:50:03] [EVENT] Created DoubleCoin at lane 1, z=166.20053
+[2025-11-01 12:50:03] [EVENT] Coin collected! Total: 22
+[2025-11-01 12:50:03] [INFO] FPS: 61
+[2025-11-01 12:50:04] [EVENT] Created Train at lane 0, z=187.40079
+[2025-11-01 12:50:04] [COLLISION] Player hit Train
+[2025-11-01 12:50:04] [STATE] Player: RUNNING -> CRASHED
+[2025-11-01 12:50:04] [EVENT] Player crashed!
+[2025-11-01 12:50:04] [STATE] Game: PLAYING -> GAME_OVER
+[2025-11-01 12:50:04] [INFO] Final score: 22
+[2025-11-01 12:50:04] [INFO] Distance traveled: 1536m
+[2025-11-01 12:50:04] [INFO] FPS: 60
+[2025-11-01 12:50:05] [INFO] FPS: 60
